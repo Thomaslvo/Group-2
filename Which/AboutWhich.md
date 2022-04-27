@@ -1,0 +1,7 @@
+- The nano command "Which" is used to locate an executable file related to the given command and returns with three statuses "0", "1", "2".
+- Status "0": means that all specified commands were found and executable
+- Status "1": means  that one or more specified commands is non-existent or not executable.
+- Status "2": means that an invalid option is specified
+- This command is used like this: which (fiename)
+- The command could be used to print all the matching pathnames: which -a
+- The command could be used to display help information: info which
