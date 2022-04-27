@@ -12,9 +12,3 @@ find . -name filename.md
 (in our case)
 find . -name AboutFind.md
 
-You can also find directories by using the name option 
-
-find / -type d -name directory_name 
-
-(in our case)
-find / -type d -name Group2 
