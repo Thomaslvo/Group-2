@@ -1,0 +1,3 @@
+-Nano is command used in Linux. It is not just a command but it is a text editor. Nano text editor is used to create and edit files, included in most Linux distributions. It has a very simple interface
+-Nano is used on Linux operating system but it is not compatible with Redhat.
+-Once you used a cd(change directory) command to access the directory, press "nano filename" 
